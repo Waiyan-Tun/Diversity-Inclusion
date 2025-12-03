@@ -170,19 +170,18 @@ This shows limited female representation in leadership positions.
 ### **Dashboard Pages**
 
 Page 1:
-✔ Gender balance
-✔ Executive representation
-✔ Performance by gender
-✔ Age group distribution
-✔ Department, Job Level, Region filters
-
-Page 2:
 ✔ Hiring by gender
 ✔ Promotions and % women promoted
 ✔ Turnover comparison
 ✔ Time in grade before promotion
 ✔ Job-level breakdown
 
+Page 2:
+✔ Gender balance
+✔ Executive representation
+✔ Performance by gender
+✔ Age group distribution
+✔ Department, Job Level, Region filters
 These pages give HR teams a comprehensive view of diversity patterns across the employee lifecycle.
 
 ---
