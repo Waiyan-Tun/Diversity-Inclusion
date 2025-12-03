@@ -236,3 +236,4 @@ The dashboard provides clear insights HR teams can use to drive equitable and in
 **Wai Yan Tun** 
 
 – Diversity & Inclusion Workforce Analytics Project
+- Download "Diversity & Inclusion Insights.pbix" and open in Power BI to see the Dashboard (As dashboard is for internal access only)
